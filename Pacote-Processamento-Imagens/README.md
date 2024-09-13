@@ -20,8 +20,5 @@ from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
 
-## Author
-My_name
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
